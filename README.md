@@ -125,16 +125,6 @@ This project is optimized for deployment on [Vercel](https://vercel.com/):
 pnpm build
 ```
 
-Or click below to deploy instantly:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/pranjalisr/streamline-landing-page)
-
----
-
-## 👩‍💻 Author
-
-**Pranjali** — [@pranjalisr](https://github.com/pranjalisr)
-
 ---
 
 ## 📄 License
